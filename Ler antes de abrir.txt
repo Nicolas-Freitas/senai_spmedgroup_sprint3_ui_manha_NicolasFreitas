@@ -1,0 +1,7 @@
+As telas serão direcionadas conforme o e-mail colocado.
+
+	E-mail de médico direciona a tela de Gerenciamento de Descrições.
+
+	E-mail de paciente direciona a tela de Minhas Consultas.
+
+	E-mail de administrador direciona a tela de Gerenciamento.
